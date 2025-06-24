@@ -77,11 +77,11 @@ public:
 };
 
 
-int main()
-{
-    Solution s1;
-    vector<vector<int>> intervals = { {1, 3},{2, 6},{8, 10},{15, 18} };
-    //cout << s1.merge(intervals) << endl;
-    system("pause");
-    return 0;
-}
+//int main()
+//{
+//    Solution s1;
+//    vector<vector<int>> intervals = { {1, 3},{2, 6},{8, 10},{15, 18} };
+//    //cout << s1.merge(intervals) << endl;
+//    system("pause");
+//    return 0;
+//}

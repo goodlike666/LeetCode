@@ -24,5 +24,11 @@
     <ClCompile Include="189-轮转数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="238.数组乘积除去自身.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41.缺少的第一个正数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

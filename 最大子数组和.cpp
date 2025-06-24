@@ -91,11 +91,11 @@ public:
 };
 
 
-int main()
-{
-    Solution s1;
-    vector<int> nums = { -2,1,-3,4,-1,2,1,-5,4 };
-    cout << s1.maxSubArray(nums) << endl;
-    system("pause");
-    return 0;
-}
+//int main()
+//{
+//    Solution s1;
+//    vector<int> nums = { -2,1,-3,4,-1,2,1,-5,4 };
+//    cout << s1.maxSubArray(nums) << endl;
+//    system("pause");
+//    return 0;
+//}
